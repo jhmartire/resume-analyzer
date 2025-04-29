@@ -3,3 +3,4 @@ venv/
 *.pyc
 __pycache__/
 .streamlit/*.toml
+.DS_Store
