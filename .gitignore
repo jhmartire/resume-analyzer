@@ -4,3 +4,4 @@ venv/
 __pycache__/
 .streamlit/*.toml
 .DS_Store
+.ipynb_checkpoints/
